@@ -59,7 +59,7 @@ To use a bias (shifted threshold), append a column of 1s to your `X` before trai
 
 ## Proof
 
-See the `/proof` directory for the formal proof and addenda referenced in the code and notation above.
+See the `proof.md` document for the formal proof and addenda referenced in the code and notation above.
 
 ## License
 

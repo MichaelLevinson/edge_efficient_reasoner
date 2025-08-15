@@ -53,8 +53,8 @@ To use a bias (shifted threshold), append a column of 1s to your `X` before trai
 .
 ├── edge_efficient_reasoner.py
 ├── README.md
-└── proof/
-    └── (add your formal proof files here)
+└── proof.md
+    
 ```
 
 ## Proof

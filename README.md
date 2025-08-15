@@ -1,6 +1,6 @@
 # Edge-Efficient Reasoner — Low-Rank Adapter Construction
 
-This repository implements efficient low-rank adapters for Boolean reasoning, as formalized in Addenda A1, A2, and A3 of the associated proof (see `/proof` for details). The code provides a simple, device-agnostic pipeline for building and verifying adapters on binary data.
+This repository implements efficient low-rank adapters for Boolean reasoning, as formalized in Addenda A1, A2, and A3 of the associated proof (see `proof.md` for details). The code provides a simple, device-agnostic pipeline for building and verifying adapters on binary data.
 
 ## Notation (↔ proof reference)
 
